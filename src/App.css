@@ -57,12 +57,7 @@ table {
 
 
 /* Column Size for thead */
-thead tr th:nth-child(-5n+5) {
-  width: 30%;
-}
-thead tr th:nth-child(-4n+4) {
-  width: 30%;
-}
+
 
 /* Column size for tbody */
 tbody tr:nth-child(odd) {
