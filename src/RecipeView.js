@@ -10,7 +10,7 @@ function RecipeView({recipe, deleteRecipe}) {
             <p>{recipe.cuisine}</p>
            </td>
            <td>
-            <img src={recipe.photo} alt="food" style={{objectFit: "content", width: "100", height: "100%"}}/>
+            <img src={recipe.photo} alt="food" style={{objectFit: "content", width: "100%", height: "100%"}}/>
            </td>
            <td className="content_td">
             <p>{recipe.ingredients}</p>
