@@ -1,0 +1,19 @@
+tbody tr td:nth-child(-5n+5) {
+    width: 30%;
+}
+
+tbody tr td:nth-child(-4n+4) {
+    width: 30%;
+}
+
+tbody tr td:nth-child(-3n+3){
+    width: 10%;
+}
+
+tbody tr td:nth-child(-2n+2){
+    width: 10%;
+}
+
+tbody tr td:nth-child(-1n+1){
+    width: 10%;
+}
